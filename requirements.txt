@@ -1,0 +1,10 @@
+numpy
+pandas
+openpyxl
+PyDrive
+Skpy
+oauth2client
+google-auth-oauthlib
+google-api-python-client
+progress
+XlsxWriter
